@@ -1,7 +1,4 @@
 ### Nastaran Izad
-![Picture1](https://github.com/Nizad/nizad/assets/28957789/d59e211f-ee54-47cd-813a-03ea3981b9dc)
-
-
 
 <!--
 **Nizad/nizad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
